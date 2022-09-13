@@ -11,7 +11,7 @@
 		<windowRight>1500</windowRight>
 		</head>
 	<body text="example2/aboutreader.opml">
-		<outline created="Mon, 22 Apr 2013 15:36:00 GMT" text="What is this?">
+		<outline created="Mon, 22 Apr 2013 15:36:00 GMT" text="dafbadfbadfbadfb What is this?">
         <outline created="Mon, 22 Apr 2013 15:36:05 GMT" text="adfvdafbadfbadfbadfbdafbfdab dafbafbThis is a new piece of software called &lt;i&gt;Small Picture Reader. &lt;/i&gt;"></outline>
 			<outline created="Mon, 22 Apr 2013 15:36:32 GMT" text="Think of it as a player for outlines. ">
 				<outline created="Mon, 22 Apr 2013 16:53:01 GMT" text="It looks a bit like Readability, a product we love, except that it's making OPML files more readable. And it understands the structure of the document just as our outliners do. Except this is only for reading. "></outline>
