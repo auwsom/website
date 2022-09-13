@@ -59,7 +59,7 @@ OPTIONS:
    -s      Sync the branch even if branch.\$branch_name.sync isn't set
 EOF
 }
-sync_new_files_anyway="false"
+sync_new_files_anyway="true"
 sync_anyway="false"
 
 while getopts "hns" opt ; do
