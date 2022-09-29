@@ -1,10 +1,10 @@
 # website
 
-* Level 1
-  * Level 2
-    * Level 3
-      * Level 4
-        * Level 5
-          * Level 6
-            * Level 7
-              * Level 8
+<details open><summary>Hello</summary><blockquote>
+  <details><summary>World - click me to open</summary><blockquote>
+    :smile:
+  </blockquote></details>
+  <details open><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
